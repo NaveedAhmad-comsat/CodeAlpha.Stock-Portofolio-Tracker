@@ -1,2 +1,1 @@
-# CodeAlpha.Stock Portofolio Tracker
-Python mini-projects: Hangman game & Stock Portfolio Tracker — built with core concepts (loops, dicts, file I/O, OOP-ready structure). Clean CLI, commented for learners.
+📈 Python Stock Portfolio Tracker — CLI-based investment tracker that calculates total portfolio value using a hardcoded stock price dictionary. Features a 10-stock database, formatted summary table, portfolio analytics, and export to .txt & .csv reports. Built using: dictionaries, input/output, arithmetic, and file handling.
