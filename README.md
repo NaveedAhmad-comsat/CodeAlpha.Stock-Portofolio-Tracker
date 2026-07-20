@@ -38,4 +38,6 @@ No external libraries required — pure Python 3 standard library only.
 NovaMind Technologies  
 BS Mathematics with Data Science — COMSATS University Islamabad
 
+and my dream is to become data scientist
+
 
